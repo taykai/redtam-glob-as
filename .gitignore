@@ -1,5 +1,4 @@
-preb/out/**
 !preb/out/target
-!preb/out/target/.gitkeep
+preb/out/**
 preb/out/target/**
 **.dmp
