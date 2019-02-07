@@ -1,0 +1,6 @@
+preb/out/**.swf
+preb/out/**.swc
+preb/out/**.p12
+!preb/out/target/.gitkeep
+preb/out/target/**
+**.dmp
