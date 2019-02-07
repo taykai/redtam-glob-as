@@ -1,7 +1,4 @@
-package {
-  public function a(): void {
-    trace('Vvvvv')
-    b()
-  }
-}
-a()
+import foo.types.Int64
+
+trace('Vvvvv')
+trace(new Int64(0x20, 0).high32)
